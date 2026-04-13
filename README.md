@@ -1,7 +1,8 @@
-# Fluid-Sim
+# Sebastian Lague's Fluid-Sim
 
 Development videos: [Simulation](https://youtu.be/rSKMYc1CQHE?si=KNw_i1sN2_CWEmzA) and [Rendering](https://youtu.be/kOkfC5fLfgE?si=1hXtw9nIiHllA6gn).
 </br>Project created in Unity 2022.3
+Love it!!!
 
 ![Fluid Simulation](https://raw.githubusercontent.com/SebLague/Images/master/Fluid%20vid%20thumb.jpg)
 ![Fluid Rendering](https://raw.githubusercontent.com/SebLague/Images/refs/heads/master/FluidRendering.jpg)
